@@ -13,8 +13,6 @@ public class settingVariables {
         float E = 2.718f; // sets a float e variable as 2.718
         System.out.println(pi*E); // prints the value of the variable pi multiplied by the variable E - 8.53952
 
-        float e = 2.718f; // sets a float e variable as 2.718
-
         boolean isStudent = true; // sets a boolean variable as true
         System.out.println(isStudent); // prints the value of the variable isStudent - true
 
