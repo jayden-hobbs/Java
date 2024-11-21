@@ -3,7 +3,7 @@ public class settingVariables {
         String name = "Jayden"; // sets a string variable as Jayden
         System.out.println(name); // prints the value of the variable name - Jayden
 
-        int age = 18; // sets an integer variable as 18
+        byte age = 18; // sets an integer variable as 18
         System.out.println(age); // prints the value of the variable age - 18   
 
         char grade = 'A'; // sets a character variable as A
@@ -11,7 +11,7 @@ public class settingVariables {
 
         float pi = 3.14f; // sets a float Pi variable as 3.14
         float E = 2.718f; // sets a float e variable as 2.718
-        System.out.println(pi*E); // prints the value of the variable pi multiplied by the variable e - 8.53952
+        System.out.println(pi*E); // prints the value of the variable pi multiplied by the variable E - 8.53952
 
         float e = 2.718f; // sets a float e variable as 2.718
 
