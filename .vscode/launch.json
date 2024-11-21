@@ -6,11 +6,38 @@
     "configurations": [
         {
             "type": "java",
+            "name": "settingVariables",
+            "request": "launch",
+            "mainClass": "settingVariables",
+            "projectName": "Java_ba47c0b8"
+        },
+        {
+            "type": "java",
+            "name": "changingVariables",
+            "request": "launch",
+            "mainClass": "changingVariables",
+            "projectName": "Java_ba47c0b8"
+        },
+        {
+            "type": "java",
+            "name": "variables",
+            "request": "launch",
+            "mainClass": "variables",
+            "projectName": "Java_ba47c0b8"
+        },
+        {
+            "type": "java",
+            "name": "printTypes",
+            "request": "launch",
+            "mainClass": "printTypes",
+            "projectName": "Java_ba47c0b8"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}",
-            "console": "integratedTerminal",
-
+            "console": "integratedTerminal"
         },
         {
             "type": "java",
