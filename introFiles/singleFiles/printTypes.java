@@ -1,3 +1,4 @@
+package singleFiles;
 public class printTypes {
     public static void main(String[] args) {
     System.out.print("Hello");

@@ -1,3 +1,4 @@
+package singleFiles;
 public class typeCasting {
     public static void main(String[] args) {
         int age = 18;

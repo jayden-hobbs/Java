@@ -1,3 +1,4 @@
+package Variables;
 public class changingVariables {
     public static void main(String[] args){
         

@@ -1,3 +1,4 @@
+package Operators;
 public class comparisonOperators {
     public static void main(String[] args) {
         System.out.println(2 == 2); // is 2 equal to 2? prints true

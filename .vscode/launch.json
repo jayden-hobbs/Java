@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "specialCharacters",
+            "request": "launch",
+            "mainClass": "Strings.specialCharacters",
+            "projectName": "Java_ba47c0b8"
+        },
+        {
+            "type": "java",
             "name": "logicalOperators",
             "request": "launch",
             "mainClass": "logicalOperators",

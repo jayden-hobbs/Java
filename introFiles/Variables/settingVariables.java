@@ -1,3 +1,4 @@
+package Variables;
 public class settingVariables {
     public static void main(String[] args) {
         String name = "Jayden"; // sets a string variable as Jayden
