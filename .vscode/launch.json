@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "loopArrays",
+            "request": "launch",
+            "mainClass": "Arrays.loopArrays",
+            "projectName": "Java_ba47c0b8"
+        },
+        {
+            "type": "java",
             "name": "breakContinue",
             "request": "launch",
             "mainClass": "Loops.breakContinue",
