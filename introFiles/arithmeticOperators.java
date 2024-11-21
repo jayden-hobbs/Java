@@ -1,4 +1,4 @@
-public class operators {
+public class arithmeticOperators {
     public static void main(String[] args) {
         System.out.println(2+2); // prints simple addition = 4
         System.out.println(2-2); // prints simple subtraction = 0
@@ -8,11 +8,13 @@ public class operators {
         System.out.println(5/2); // prints the quotient of 5 divided by 2 = 2
 
         int number1 = 5;
-        System.out.println(++number1); // prints 6
+        System.out.println(++number1); // increases value by 1 - prints 6
 
         int number2 = 5;
-        System.out.println(--number2); // prints 4
+        System.out.println(--number2); // decreases value by 1 - prints 4
 
-
+        int number3 = 5;
+        number3 +=5; // adds 5 to the value of number3  
+        System.out.println(number3); // prints 10  
     }
 }
