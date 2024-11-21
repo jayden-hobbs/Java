@@ -3,7 +3,7 @@ public class settingVariables {
         String name = "Jayden"; // sets a string variable as Jayden
         System.out.println(name); // prints the value of the variable name - Jayden
 
-        byte age = 18; // sets an integer variable as 18
+        int age = 18; // sets an integer variable as 18
         System.out.println(age); // prints the value of the variable age - 18   
 
         char grade = 'A'; // sets a character variable as A
