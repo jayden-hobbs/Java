@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "javaMethods.recursion",
+            "projectName": "Java_ba47c0b8"
+        },
+        {
+            "type": "java",
             "name": "scope",
             "request": "launch",
             "mainClass": "javaMethods.scope",
