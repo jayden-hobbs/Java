@@ -1,4 +1,4 @@
-package Arrays;
+package introFiles.Arrays;
 
 public class multidimensionalArrays {
     public static void main(String[] args) {
