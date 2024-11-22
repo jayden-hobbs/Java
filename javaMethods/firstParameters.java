@@ -5,7 +5,7 @@ public class firstParameters {
         System.out.println(firstName + " Smith");
     }
     public static void main(String[] args) {
-        method1("John");
+        method1("Jayden");
         method1("Jane");
         method1("Tom");
     }

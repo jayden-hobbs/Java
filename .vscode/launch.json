@@ -10,7 +10,6 @@
             "request": "launch",
             "mainClass": "javaMethods.firstParameters",
             "projectName": "Java_ba47c0b8",
-            "cwd": "${C:\\Users\\Seagu\\OneDrive - Leeds Beckett University\\OOP\\java repo\\Java}"
         },
         {
             "type": "java",
