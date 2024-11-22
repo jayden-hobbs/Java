@@ -11,3 +11,4 @@ public class arrays {
         System.out.println(footballTeams.length); // print the length of the array - 6
     }
 }
+
