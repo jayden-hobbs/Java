@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "returnVariables",
+            "request": "launch",
+            "mainClass": "javaMethods.returnVariables",
+            "projectName": "Java_ba47c0b8"
+        },
+        {
+            "type": "java",
             "name": "returns",
             "request": "launch",
             "mainClass": "javaMethods.returns",
