@@ -1,4 +1,4 @@
-package javaMethods.Methods;
+package javaMethods;
 
 public class firstMethods {
     static void method1() {
