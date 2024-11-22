@@ -1,4 +1,4 @@
-package Strings;
+package introFiles.Strings;
 
 public class specialCharacters {
     public static void main(String[] args) {

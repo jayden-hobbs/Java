@@ -1,4 +1,4 @@
-package Operators;
+package introFiles.Operators;
 @SuppressWarnings("all")
 public class comparisonOperators {
     public static void main(String[] args) {

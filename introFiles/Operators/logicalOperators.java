@@ -1,4 +1,4 @@
-package Operators;
+package introFiles.Operators;
 public class logicalOperators {
     public static void main(String[] args) {
         int number1 = 5;

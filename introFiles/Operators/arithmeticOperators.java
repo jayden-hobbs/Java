@@ -1,4 +1,4 @@
-package Operators;
+package introFiles.Operators;
 public class arithmeticOperators {
     public static void main(String[] args) {
         System.out.println(2+2); // prints simple addition = 4

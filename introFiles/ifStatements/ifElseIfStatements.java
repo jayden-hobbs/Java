@@ -1,4 +1,4 @@
-package ifStatements;
+package introFiles.ifStatements;
 
 public class ifElseIfStatements {
     public static void main(String[] args) {

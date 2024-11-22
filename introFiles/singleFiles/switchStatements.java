@@ -1,4 +1,4 @@
-package singleFiles;
+package introFiles.singleFiles;
 
 public class switchStatements {
     public static void main(String[] args) {

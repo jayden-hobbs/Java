@@ -1,4 +1,4 @@
-package Loops;
+package introFiles.Loops;
 
 public class doWhileLoop {
     public static void main(String[] args) {
