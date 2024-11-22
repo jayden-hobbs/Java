@@ -6,10 +6,17 @@
     "configurations": [
         {
             "type": "java",
+            "name": "multipleParameters",
+            "request": "launch",
+            "mainClass": "javaMethods.Parameters.multipleParameters",
+            "projectName": "Java_ba47c0b8"
+        },
+        {
+            "type": "java",
             "name": "firstParameters",
             "request": "launch",
             "mainClass": "javaMethods.firstParameters",
-            "projectName": "Java_ba47c0b8",
+            "projectName": "Java_ba47c0b8"
         },
         {
             "type": "java",

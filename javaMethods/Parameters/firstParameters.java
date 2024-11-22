@@ -1,4 +1,4 @@
-package javaMethods;
+package javaMethods.Parameters;
 
 public class firstParameters {
     static void method1(String firstName) {
