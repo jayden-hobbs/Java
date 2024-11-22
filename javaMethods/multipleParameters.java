@@ -1,4 +1,4 @@
-package javaMethods.Parameters;
+package javaMethods;
 
 public class multipleParameters {
     static void method1(String firstName, int age) {
